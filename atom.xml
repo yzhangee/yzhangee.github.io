@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Homepage</title>
+  
+  
+  <link href="http://yzhangee.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://yzhangee.github.io/"/>
+  <updated>2024-05-18T12:45:04.662Z</updated>
+  <id>http://yzhangee.github.io/</id>
+  
+  <author>
+    <name>Yongqi ZHANG</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>aa</title>
+    <link href="http://yzhangee.github.io/2024/05/18/aa/"/>
+    <id>http://yzhangee.github.io/2024/05/18/aa/</id>
+    <published>2024-05-18T12:42:24.000Z</published>
+    <updated>2024-05-18T12:45:04.662Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h1><p>Yongqi will joint DSA department in Information Hub of HKUST(GZ) as a tenue-track assistant professot. Before joining HKUST(GZ), he worked as a research scientist in <a href="https://www.4paradigm.com/">4Paradigm Inc.</a> and has close cooperation with Prof. Quanming Yao in Tsinghua University. Yongqi received his Ph.D. degree at the Department of Science and Engineering of the Hong Kong University of Science and Technology (HKUST) in 2020, advised by <a href="http://home.cse.ust.hk/~leichen/">Prof. Lei Chen</a>. Before the Ph.D life, he obtained a bachelor degree at Shanghai Jiao Tong University (SJTU) in 2015.</p><h1 id="Research-Interst"><a href="#Research-Interst" class="headerlink" title="Research Interst"></a>Research Interst</h1><p>My research focuses on learning from graph structured data by modeling the relationships among objects, leveraging multiple resources in the world and interpreting the inference processes. I also interested about applying artificial intelligent techniques for interdiscipline research, in particular the biomedical domain, pursuing AI4Science,</p><p>Keywords: graph learning, automated machine learning, generative AI, AI for biomedicine.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;About-Me&quot;&gt;&lt;a href=&quot;#About-Me&quot; class=&quot;headerlink&quot; title=&quot;About Me&quot;&gt;&lt;/a&gt;About Me&lt;/h1&gt;&lt;p&gt;Yongqi will joint DSA department in Informatio</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yzhangee.github.io/2024/05/18/test-1/"/>
+    <id>http://yzhangee.github.io/2024/05/18/test-1/</id>
+    <published>2024-05-18T04:48:33.000Z</published>
+    <updated>2024-05-18T04:48:33.103Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yzhangee.github.io/2024/05/18/test/"/>
+    <id>http://yzhangee.github.io/2024/05/18/test/</id>
+    <published>2024-05-18T04:30:00.000Z</published>
+    <updated>2024-05-18T12:39:42.269Z</updated>
+    
+    <content type="html"><![CDATA[<p>dfeedc</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;dfeedc&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yzhangee.github.io/2024/05/18/hello-world/"/>
+    <id>http://yzhangee.github.io/2024/05/18/hello-world/</id>
+    <published>2024-05-18T04:27:45.259Z</published>
+    <updated>2024-05-18T04:27:45.259Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

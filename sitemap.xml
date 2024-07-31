@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yzhangee.github.io/publications/index.html</loc>
+    
+    <lastmod>2024-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://yzhangee.github.io/2024/05/18/main/</loc>
     
     <lastmod>2024-07-19</lastmod>
@@ -23,15 +32,6 @@
     <loc>http://yzhangee.github.io/recruitment/index.html</loc>
     
     <lastmod>2024-06-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yzhangee.github.io/publications/index.html</loc>
-    
-    <lastmod>2024-06-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +67,7 @@
 
   <url>
     <loc>http://yzhangee.github.io/</loc>
-    <lastmod>2024-07-22</lastmod>
+    <lastmod>2024-07-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

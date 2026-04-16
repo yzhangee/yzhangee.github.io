@@ -6,7 +6,7 @@
   <link href="http://yzhangee.github.io/atom.xml" rel="self"/>
   
   <link href="http://yzhangee.github.io/"/>
-  <updated>2026-04-16T08:12:38.000Z</updated>
+  <updated>2026-04-15T14:11:28.000Z</updated>
   <id>http://yzhangee.github.io/</id>
   
   <author>
@@ -17,13 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hello World</title>
+    <link href="http://yzhangee.github.io/2026/04/15/hello-world/"/>
+    <id>http://yzhangee.github.io/2026/04/15/hello-world/</id>
+    <published>2026-04-15T14:11:28.000Z</published>
+    <updated>2026-04-15T14:11:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title></title>
     <link href="http://yzhangee.github.io/2024/05/18/main/"/>
     <id>http://yzhangee.github.io/2024/05/18/main/</id>
     <published>2024-05-18T12:42:24.000Z</published>
-    <updated>2026-04-16T08:12:38.000Z</updated>
+    <updated>2026-04-16T08:35:50.000Z</updated>
     
-    <content type="html"><![CDATA[<div class="home-hero">  <section class="hero-panel">    <h1>Designing intelligent systems that reason with knowledge, retrieval, and scientific structure.</h1>    <p class="hero-lead">Yongqi Zhang is currently a tenure-track Assistant Professor in the <a href="https://dsa.hkust-gz.edu.cn/" target="_blank" rel="noopener">Data Science and Analytics Thrust</a> at HKUST(GZ). His research focuses on multimodal reasoning, RAG systems, LLM agents, and AI4Science. Before joining HKUST(GZ), he worked as a research scientist at <a href="https://www.4paradigm.com/" target="_blank" rel="noopener">4Paradigm</a> and collaborated closely with <a href="https://lars-group.github.io/index.html" target="_blank" rel="noopener">Prof. Quanming Yao</a> at Tsinghua University.</p>    <p class="hero-lead hero-lead-secondary">In terms of education, Dr. Zhang completed his doctoral degree in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology (HKUST) in 2020, advised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CHEN-Lei/leichen" target="_blank" rel="noopener">Prof. Lei Chen</a>. Before pursuing his Ph.D., he obtained a bachelor's degree from Shanghai Jiao Tong University (SJTU) in 2015. With this background, Dr. Zhang possesses extensive academic and industry experience, as well as strong collaborations with partners.</p>    <div class="cta-group">      <a class="cta-link" href="/publications">View Publications</a>      <a class="cta-link secondary" href="/group">Meet the Group</a>      <a class="cta-link secondary" href="mailto:yongqizhang@hkust-gz.edu.cn">Contact</a>    </div>    <div class="metric-strip">      <div class="metric-card">        <p class="metric-value">40+</p>        <p class="metric-label">Publications</p>      </div>      <div class="metric-card">        <p class="metric-value">4</p>        <p class="metric-label">Research Themes</p>      </div>      <div class="metric-card">        <p class="metric-value">2024</p>        <p class="metric-label">KiMI Founded</p>      </div>    </div>  </section></div><div class="editorial-grid editorial-grid-single">  <section class="section-block">    <p class="section-kicker">Research Themes</p>    <h2 class="section-heading">What We Work On</h2>    <p class="section-intro">We build AI systems that can understand, retrieve, reason, and act across modalities and domains by integrating data-driven learning with domain knowledge.</p>    <div class="research-stack">      <article class="research-item">        <h3>Multimodal Reasoning</h3>        <p>Understanding and reasoning across vision, language, and structured knowledge.</p>      </article>      <article class="research-item">        <h3>RAG Systems</h3>        <p>Multimodal search, retrieval, ranking, and grounded generation over large-scale corpora.</p>      </article>      <article class="research-item">        <h3>LLM Agents</h3>        <p>Planning, memory, tool use, verification, and multi-agent collaboration for complex problem solving.</p>      </article>      <article class="research-item">        <h3>AI for Science</h3>        <p>Knowledge-enhanced foundation models and intelligent systems for biology, materials, and engineering.</p>      </article>    </div>  </section></div><div class="callout-row">  <section class="callout-card">    <p class="section-kicker">Lab</p>    <h3>KiMI Lab</h3>    <p>KiMI is dedicated to Knowledge-integrated Machine Intelligence, with a focus on building AI systems that understand, retrieve, reason, and act across modalities and domains.</p>    <div class="inline-link-row">      <a href="/group">Group Members</a>      <a href="/achievements">Projects and Awards</a>    </div>  </section>  <section class="callout-card">    <p class="section-kicker">Recruitment</p>    <h3>Join the Group</h3>    <p>The group is actively looking for students and collaborators interested in Multimodal Reasoning, RAG Systems, LLM Agents, and AI for Science.</p>    <div class="inline-link-row">      <a href="/recruitment">Open Positions</a>      <a href="mailto:yongqizhang@hkust-gz.edu.cn">Email Me</a>    </div>  </section></div>]]></content>
+    <content type="html"><![CDATA[<div class="home-hero">  <section class="hero-panel">    <h1>Designing intelligent systems that reason with knowledge, retrieval, and scientific structure.</h1>    <p class="hero-lead">Yongqi Zhang is currently a tenure-track Assistant Professor in the <a href="https://dsa.hkust-gz.edu.cn/" target="_blank" rel="noopener">Data Science and Analytics Thrust</a> at HKUST(GZ). His research focuses on multimodal reasoning, RAG systems, LLM agents, and AI4Science. Before joining HKUST(GZ), he worked as a research scientist at <a href="https://www.4paradigm.com/" target="_blank" rel="noopener">4Paradigm</a> and collaborated closely with <a href="https://lars-group.github.io/index.html" target="_blank" rel="noopener">Prof. Quanming Yao</a> at Tsinghua University.</p>    <p class="hero-lead hero-lead-secondary">In terms of education, Dr. Zhang completed his doctoral degree in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology (HKUST) in 2020, advised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CHEN-Lei/leichen" target="_blank" rel="noopener">Prof. Lei Chen</a>. Before pursuing his Ph.D., he obtained a bachelor's degree from Shanghai Jiao Tong University (SJTU) in 2015. With this background, Dr. Zhang possesses extensive academic and industry experience, as well as strong collaborations with partners.</p>    <div class="cta-group">      <a class="cta-link" href="/publications">View Publications</a>      <a class="cta-link secondary" href="/group">Meet the Group</a>      <a class="cta-link secondary" href="mailto:yongqizhang@hkust-gz.edu.cn">Contact</a>    </div>    <div class="metric-strip">      <div class="metric-card">        <p class="metric-value">40+</p>        <p class="metric-label">Publications</p>      </div>      <div class="metric-card">        <p class="metric-value">4</p>        <p class="metric-label">Research Themes</p>      </div>      <div class="metric-card">        <p class="metric-value">2024</p>        <p class="metric-label">KiMI Founded</p>      </div>    </div>  </section></div><div class="editorial-grid editorial-grid-single">  <section class="section-block">    <p class="section-kicker">Research Themes</p>    <h2 class="section-heading">What We Work On</h2>    <p class="section-intro">We build AI systems that can understand, retrieve, reason, and act across modalities and domains by integrating data-driven learning with domain knowledge.</p>    <div class="research-stack">      <article class="research-item">        <h3>Multimodal Reasoning</h3>        <p>Understanding and reasoning across vision, language, and structured knowledge.</p>      </article>      <article class="research-item">        <h3>RAG Systems</h3>        <p>Multimodal search, retrieval, ranking, and grounded generation over large-scale corpora.</p>      </article>      <article class="research-item">        <h3>LLM Agents</h3>        <p>Planning, memory, tool use, verification, and multi-agent collaboration for complex problem solving.</p>      </article>      <article class="research-item">        <h3>AI for Science</h3>        <p>Knowledge-enhanced foundation models and intelligent systems for biology, materials, and engineering.</p>      </article>    </div>  </section></div><div class="callout-row">  <section class="callout-card">    <p class="section-kicker">Lab</p>    <h3>KiMI Lab</h3>    <p>KiMI is dedicated to Knowledge-integrated Machine Intelligence, with a focus on building AI systems that understand, retrieve, reason, and act across modalities and domains.</p>    <div class="inline-link-row">      <a href="/group">Group Members</a>      <a href="/achievements">Projects and Awards</a>    </div>  </section>  <section class="callout-card">    <p class="section-kicker">Recruitment</p>    <h3>Join the Group</h3>    <p>The group is actively looking for students and collaborators interested in Multimodal Reasoning, RAG Systems, LLM Agents, and AI for Science.</p>    <div class="inline-link-row">      <a href="mailto:yongqizhang@hkust-gz.edu.cn">Email Me</a>    </div>  </section></div>]]></content>
     
     
       
@@ -43,7 +63,7 @@
     <link href="http://yzhangee.github.io/2024/05/18/test-1/"/>
     <id>http://yzhangee.github.io/2024/05/18/test-1/</id>
     <published>2024-05-18T04:48:33.000Z</published>
-    <updated>2024-05-18T04:48:33.000Z</updated>
+    <updated>2026-04-15T14:11:28.000Z</updated>
     
     
     
@@ -56,27 +76,15 @@
     <link href="http://yzhangee.github.io/2024/05/18/test/"/>
     <id>http://yzhangee.github.io/2024/05/18/test/</id>
     <published>2024-05-18T04:30:00.000Z</published>
-    <updated>2026-04-15T14:11:33.000Z</updated>
+    <updated>2026-04-15T14:11:28.000Z</updated>
     
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yzhangee.github.io/2024/05/18/hello-world/"/>
-    <id>http://yzhangee.github.io/2024/05/18/hello-world/</id>
-    <published>2024-05-18T04:27:45.000Z</published>
-    <updated>2024-05-18T04:27:45.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>dfeedc</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;dfeedc&lt;/p&gt;
+</summary>
       
     
     

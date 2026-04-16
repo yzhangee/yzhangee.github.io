@@ -3835,6 +3835,10 @@ body.is-home .side-card .cv-links {
   .page-group .group-people-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+  .page-group .group-track-phd-block .group-people-grid,
+  .page-group .group-track-mphil-block .group-people-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
   .page-group .group-track-ra-block .group-people-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -3885,6 +3889,8 @@ body.is-home .side-card .cv-links {
   .page-group .group-people-grid {
     grid-template-columns: 1fr;
   }
+  .page-group .group-track-phd-block .group-people-grid,
+  .page-group .group-track-mphil-block .group-people-grid,
   .page-group .group-track-ra-block .group-people-grid {
     grid-template-columns: 1fr;
   }

@@ -1234,6 +1234,11 @@ body.is-home .home-bio .hero-lead a {
   text-underline-offset: 3px;
   background: transparent;
 }
+body.is-home .home-bio .about-num {
+  font-family: var(--font-mono);
+  font-size: 0.95em;
+  letter-spacing: var(--tracking-normal);
+}
 body.is-home .home-bio > .section-kicker {
   margin: 0 0 var(--s-1);
   color: var(--text-muted);

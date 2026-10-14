@@ -2883,6 +2883,9 @@ body.is-home .home-workspace .workspace-item--recruit h3.group-recruit-title::af
   gap: var(--s-3);
   margin: 0;
 }
+.page-projects .project-grid + .project-grid {
+  margin-top: var(--s-3);
+}
 .page-projects .project-card {
   position: relative;
   display: flex;
